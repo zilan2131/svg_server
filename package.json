@@ -11,8 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@neplex/vectorizer": "^0.1.0",
-    "@visioncortex/vtracer": "^1.0.0-alpha.4",
     "body-parser": "^2.4.0",
     "cors": "^2.8.6",
     "dotenv": "^18.0.9",
